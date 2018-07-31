@@ -4,6 +4,8 @@ You should:
 write the console:
 -> sudo service mongod start
 (use a separate terminal window for this process)
+1a. if you open console mongo, write this:
+-> mongo
 2. If you want to stop the process, write the console:
 -> sudo service mongod stop
 3. install Mongoose:
