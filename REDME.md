@@ -21,6 +21,6 @@ write the console:
 -> click your bd and open users
 -> click the button Add database user
 -> when you see link, use it but <dbuser> write name_of_your_user and <dbpassword> write your_password_when_you_create_the_users
-and do it again 4b
+and do it again 4b.
 --------------------------------------------------------------------------------
 heroku App: https://sleepy-ocean-54667.herokuapp.com/
